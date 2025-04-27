@@ -1,11 +1,6 @@
 # Overview
 
-This project focuses on detecting network intrusions using machine learning techniques. Our main goal was to accurately classify activities based on network features using a Random Forest Classifier.
- We solved two different classification problems:
-
-- Binomial Classification: Predict whether a network activity is Normal or Attack.
-
-- Multinomial Classification: Predict the specific type of attack (e.g., Back, Neptune, Smurf) or Normal activity.
+This project focuses on detecting network intrusions using machine learning techniques. Our main goal was to accurately classify activities based on network features using a Random Forest Classifier.The system aims to automatically detect unusual activities or attacks in a network and differentiate them from normal traffic.This is a critical task for maintaining the security and integrity of computer networks, especially in environments where cyber threats are frequent.
 
 # Objective
 
@@ -55,3 +50,12 @@ There are two problems:
     Satan
 
     Smurf
+
+
+#### Future Work
+- Try advanced ensemble methods like XGBoost or LightGBM.
+
+- Handle class imbalance (if needed) using SMOTE or class_weight.
+
+- Tune hyperparameters using GridSearchCV for further optimization.
+    
