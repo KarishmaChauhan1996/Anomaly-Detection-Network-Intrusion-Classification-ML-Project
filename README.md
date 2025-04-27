@@ -26,11 +26,16 @@ There are two problems:
 - Data Preparation
 - Features selection.
 - A target variable attack_class was created in two different ways:
-   a. Binomial:
-  0 → Normal
-  1 → Attack
-  b. Multinomial:
+   - a. Binomial:
+
+     0 → Normal
+
+     1 → Attack
+     
+  - b. Multinomial:
+  
   Normal
+  
   Back
 
 Buffer Overflow
