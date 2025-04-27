@@ -29,20 +29,21 @@ Conclusion
 ### Data
 
 Tables: There are 10 tables for different type of attacks with same columns 
-a. Data_of_Attack_Back_Normal  
-b. Data_of_Attack_Back  
-c. Data_of_Attack_Back_BufferOverflow 
-d. Data_of_Attack_Back_FTPWrite 
-e. Data_of_Attack_Back_GuessPassword 
-f. Data_of_Attack_Back_Neptune 
-g. Data_of_Attack_Back_NMap 
-h. Data_of_Attack_Back_PortSweep 
-i. Data_of_Attack_Back_RootKit 
-j. Data_of_Attack_Back_Satan 
-k. Data_of_Attack_Back_Smurf 
+- Data_of_Attack_Back_Normal
+- Data_of_Attack_Back
+- Data_of_Attack_Back_BufferOverflow
+- Data_of_Attack_Back_FTPWrite
+- Data_of_Attack_Back_GuessPassword
+- Data_of_Attack_Back_Neptune
+- Data_of_Attack_Back_NMap
+- Data_of_Attack_Back_PortSweep
+- Data_of_Attack_Back_RootKit
+- Data_of_Attack_Back_Satan
+- Data_of_Attack_Back_Smurf 
 
 
 ### Usage
+
 - Language: Python
 - Libraries: scikit-learn, pandas, numpy
 - Model Used: Random Forest Classifier
