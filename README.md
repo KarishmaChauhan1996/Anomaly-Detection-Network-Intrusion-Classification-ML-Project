@@ -34,24 +34,24 @@ There are two problems:
      
   - b. Multinomial:
   
-  Normal
-  
-  Back
+     Normal
 
-Buffer Overflow
+     Back
 
-FTP Write
+     Buffer Overflow
 
-Guess Password
+     FTP Write
 
-Neptune
+     Guess Password
 
-Nmap
+    Neptune
 
-Port Sweep
+    Nmap
 
-Rootkit
+    Port Sweep
 
-Satan
+    Rootkit
 
-Smurf
+    Satan
+
+    Smurf
