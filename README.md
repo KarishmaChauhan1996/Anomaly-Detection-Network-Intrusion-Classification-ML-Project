@@ -1,6 +1,6 @@
 # Overview
 
-This project focuses on detecting network intrusions using machine learning techniques. Our main goal was to accurately classify activities based on network features using a Random Forest Classifier.The system aims to automatically detect unusual activities or attacks in a network and differentiate them from normal traffic.This is a critical task for maintaining the security and integrity of computer networks, especially in environments where cyber threats are frequent.
+This project focuses on detecting network intrusions using machine learning techniques. Our main goal is to accurately classify activities based on network features using a Random Forest Classifier.The system aims to automatically detect unusual activities or attacks in a network and differentiate them from normal traffic.This is a critical task for maintaining the security and integrity of computer networks, especially in environments where cyber threats are frequent.
 
 # Objective
 
@@ -12,19 +12,13 @@ There are two problems:
 
 ### Table of Contents
 
-Data
-
-Usage
-
-Methodology
-
-Models Used
-
-Evaluation Metrics
-
-Results
-
-Conclusion
+- Data
+- Usage
+- Methodology
+- Models Used
+- Evaluation Metrics
+- Results
+- Conclusion
 
 ### Data
 
@@ -55,34 +49,21 @@ Tables: There are 10 tables for different type of attacks with same columns
 - Features selection.
 - A target variable attack_class was created in two different ways:
    - a. Binomial:
-
-     0 → Normal
-
-     1 → Attack
+       - 0 → Normal
+       - 1 → Attack
      
   - b. Multinomial:
-  
-     Normal
-
-     Back
-
-     Buffer Overflow
-
-     FTP Write
-
-     Guess Password
-
-    Neptune
-
-    Nmap
-
-    Port Sweep
-
-    Rootkit
-
-    Satan
-
-    Smurf
+       - Normal
+       - Back
+       - Buffer Overflow
+       - FTP Write
+       - Guess Password
+       - Neptune
+       - Nmap
+       - Port Sweep
+       - Rootkit
+       - Satan
+       - Smurf
 
 
 #### Future Work
